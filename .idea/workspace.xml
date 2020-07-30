@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d531646d-a422-4115-ad61-dd085fc5fc97" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="SeleniumProject18" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cm6xCHAA6OGyPYQ15Tz5C5GL7C" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RunManager" selected="TestNG.ExplicitWaitPractices.tc41">
+    <configuration name="ActionsPracticesWithPAgeObj.tc15" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumProject18" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.day11_page_object_model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.day11_page_object_model" />
+      <option name="MAIN_CLASS_NAME" value="test.day11_page_object_model.ActionsPracticesWithPAgeObj" />
+      <option name="METHOD_NAME" value="tc15" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExplicitWaitPractices.t40" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumProject18" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.day12_synchronization.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.day12_synchronization" />
+      <option name="MAIN_CLASS_NAME" value="test.day12_synchronization.ExplicitWaitPractices" />
+      <option name="METHOD_NAME" value="t40" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExplicitWaitPractices.tc41" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumProject18" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.day12_synchronization.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.day12_synchronization" />
+      <option name="MAIN_CLASS_NAME" value="test.day12_synchronization.ExplicitWaitPractices" />
+      <option name="METHOD_NAME" value="tc41" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ForgotPasswordTests.tc35_title_url_verification" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumProject18" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.day12_synchronization.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.day12_synchronization" />
+      <option name="MAIN_CLASS_NAME" value="test.day12_synchronization.ForgotPasswordTests" />
+      <option name="METHOD_NAME" value="tc35_title_url_verification" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ForgotPasswordTests.tc36" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumProject18" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.day12_synchronization.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.day12_synchronization" />
+      <option name="MAIN_CLASS_NAME" value="test.day12_synchronization.ForgotPasswordTests" />
+      <option name="METHOD_NAME" value="tc36" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.ExplicitWaitPractices.tc41" />
+        <item itemvalue="TestNG.ExplicitWaitPractices.t40" />
+        <item itemvalue="TestNG.ForgotPasswordTests.tc36" />
+        <item itemvalue="TestNG.ForgotPasswordTests.tc35_title_url_verification" />
+        <item itemvalue="TestNG.ActionsPracticesWithPAgeObj.tc15" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d531646d-a422-4115-ad61-dd085fc5fc97" name="Default Changelist" comment="" />
+      <created>1591121665398</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591121665398</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="25" key="#Project_Structure" timestamp="1591122175406">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="25" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1591122175406" />
+    <state x="484" y="255" width="398" height="221" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1592068510634">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="484" y="255" width="398" height="221" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1592068510634" />
+    <state x="463" y="108" key="FileChooserDialogImpl" timestamp="1595258495580">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="108" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1595258495580" />
+    <state width="1323" height="112" key="GridCell.Tab.0.bottom" timestamp="1595462652350">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="112" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1595462652350" />
+    <state width="1323" height="112" key="GridCell.Tab.0.center" timestamp="1595462652350">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="112" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1595462652350" />
+    <state width="1323" height="112" key="GridCell.Tab.0.left" timestamp="1595462652350">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="112" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1595462652350" />
+    <state width="1323" height="112" key="GridCell.Tab.0.right" timestamp="1595462652350">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="112" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1595462652350" />
+    <state width="661" height="129" key="GridCell.Tab.1.bottom" timestamp="1595373234052">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="661" height="129" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1595373234052" />
+    <state width="661" height="129" key="GridCell.Tab.1.center" timestamp="1595373234052">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="661" height="129" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1595373234052" />
+    <state width="661" height="129" key="GridCell.Tab.1.left" timestamp="1595373234052">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="661" height="129" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1595373234052" />
+    <state width="661" height="129" key="GridCell.Tab.1.right" timestamp="1595373234052">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="661" height="129" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1595373234052" />
+    <state x="186" y="0" key="SettingsEditor" timestamp="1595358740488">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="186" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1595358740488" />
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1596081997110">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1596081997110" />
+    <state x="65" y="0" key="new project wizard" timestamp="1595557875176">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1595557875176" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1595175447869">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1595175447869" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/test/day11_page_object_model/ActionsPractices.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/pages/HoversPage.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/test/day11_page_object_model/ActionsPracticesWithPAgeObj.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
