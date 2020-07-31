@@ -179,7 +179,8 @@ Singleton Design pattern:
 	What happens if you create private constructor?
 	-> You cannot create an object of that class.
 What singleton is?
-	-> We create a private constructor, and we also create a getter method to allow users to create the instance of this class in OUR WAY.
+	-> We create a private constructor, and we also create a getter method to allow users to create
+	the instance of this class in OUR WAY.
 REASONS:
 	idea of driver: we want to get the same driver instance whenever we want whereever we want
 We achieve this with Driver utility
